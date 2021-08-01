@@ -1,5 +1,5 @@
 # data-structs-and-algos
-A collection of basic data structures and algorithms written for class work and practice. Rule of Three and the basic operations for each data structure have been implemented.
+A collection of basic data structures and algorithms written from scratch in C++ for class work and practice. Rule of Three and the basic operations for each data structure have been implemented.
 
 # Data structures included
 - ArrayLists/Vectors
